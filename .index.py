@@ -1,3 +1,5 @@
+#!/bin/python3/
+# Game by aertsimon90
 import random, threading, time
 import socket as DEBUGTOOLS
 from socket import socket as tool
