@@ -1,7 +1,7 @@
 # phonxii_game
 This is basic command prompt game, Name is Find Phonxii Signal
 
-# How to start
+# How to start on linux:
 ```bash
 apt-get update && apt-get upgrade
 apt-get install python3
