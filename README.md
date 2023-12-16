@@ -21,3 +21,4 @@ git clone https://github.com/aertsimon90/phonxii_game
 cd phonxii_game
 python3 start.py
 ```
+# [Show Politics](https://github.com/aertsimon90/politics/blob/main/README.md)
